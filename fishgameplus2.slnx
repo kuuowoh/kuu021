@@ -1,7 +1,1 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="fishgameplus2/fishgameplus2.vcxproj" />
-</Solution>
+
